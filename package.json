@@ -1,0 +1,27 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "fitness-tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RSporman/fitness-tracker.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Bobby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RSporman/fitness-tracker/issues"
+  },
+  "homepage": "https://github.com/RSporman/fitness-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15",
+    "morgan": "^1.10.0"
+  }
+}
